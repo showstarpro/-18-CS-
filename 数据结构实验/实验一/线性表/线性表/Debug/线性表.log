@@ -1,0 +1,17 @@
+﻿  源.cpp
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(82,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(120,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(130,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(140,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(151,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(162,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(164,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(174,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(198,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(208,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(218,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(229,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(522,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(543,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\线性表\源.cpp(584,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  线性表.vcxproj -> F:\学习\大学\大三\数据结构\数据结构实验\实验一\线性表\Debug\线性表.exe

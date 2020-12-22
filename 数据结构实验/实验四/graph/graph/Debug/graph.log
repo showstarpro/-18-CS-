@@ -1,0 +1,47 @@
+﻿F:\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): warning : 对路径“f:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\debug\graph.exe”的访问被拒绝。
+  grap.cpp
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\def.h(10,1): warning C4005: “OVERFLOW”: 宏重定义
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967): message : 参见“OVERFLOW”的前一个定义
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\def.h(44,2): warning C4091: “typedef ”: 没有声明变量时忽略“Glist”的左侧
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(31,30): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(488,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(489,13): warning C4101: “V”: 未引用的局部变量
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(543,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(545,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(546,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(551,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(567,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(568,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(573,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(589,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(590,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(591,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(592,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(599,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(600,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(601,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(602,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\def.h(10,1): warning C4005: “OVERFLOW”: 宏重定义
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967): message : 参见“OVERFLOW”的前一个定义
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\def.h(44,2): warning C4091: “typedef ”: 没有声明变量时忽略“Glist”的左侧
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(37,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(42,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(46,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(59,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(66,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(68,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(76,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(87,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(89,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(100,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(111,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(122,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(130,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(161,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(170,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\main.cpp(179,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(437): warning C4715: “DFSTraverse”: 不是所有的控件路径都返回值
+F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\graph\grap.cpp(480): warning C4715: “BFSTraverse”: 不是所有的控件路径都返回值
+LINK : fatal error LNK1104: 无法打开文件“F:\学习\大学\大三\数据结构\数据结构实验\实验四\graph\Debug\graph.exe”
